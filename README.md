@@ -1,5 +1,8 @@
 # MediTour
 
+![WhatsApp Image 2024-05-10 at 18 32 52_fdd49cfd](https://github.com/naynisinghal1008/MediTourAr/assets/132836849/59a279a6-a526-44ea-a7e3-ab29c91f5345)
+
+
 **Description:**
 Our Hospital Finder & Virtual Tour App revolutionizes healthcare access by providing comprehensive information about nearby hospitals. Users can explore hospital facilities, take virtual tours of rooms, and learn about medical equipment. Additionally, the app offers detailed profiles of doctors and their specializations, empowering users to make informed healthcare decisions.
 
